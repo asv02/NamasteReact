@@ -1,0 +1,25 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asv02/NamasteReact.git"
+  },
+  "author": "Akash Suryavanshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asv02/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/asv02/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
